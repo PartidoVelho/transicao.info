@@ -1,0 +1,45 @@
+This folder: /media/daniella/B/git/Velho/Sites/transicao.info
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 105       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2500643     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-28 00:17:13.572894900 -0300
+Modify: 2024-04-28 00:17:13.597894600 -0300
+Change: 2024-04-28 00:17:13.597894600 -0300
+ Birth: 2024-04-28 00:17:13.572894900 -0300
+IPFS hash: QmSY16v6deKAJhikWit9ihygfCrASpny6rBVFkZbH6dmtp
+------------------------------
+  File: ./.folderstamp1
+  Size: 6119      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,52	Inode: 99204       Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-28 00:11:01.035237500 -0300
+Modify: 2024-04-28 00:10:57.183273500 -0300
+Change: 2024-04-28 00:11:03.307216200 -0300
+ Birth: 2024-04-28 00:11:01.035237500 -0300
+IPFS hash: QmfBtPa9sijTW63XhVWHxq7jA829CyS4wwM2RFTUE6f48r
+------------------------------
+  File: ./index.html
+  Size: 614       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2037862     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-27 18:19:51.320548000 -0300
+Modify: 2023-07-09 18:48:07.963228100 -0300
+Change: 2024-04-28 00:16:56.372044300 -0300
+ Birth: 2024-04-28 00:16:56.369044300 -0300
+IPFS hash: QmdAYgGpsQ3a8iQdNcDFswNfUvRKbFAShJ4kNpegbuxDCm
+------------------------------
+  File: ./Tasks.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,52	Inode: 2586782     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-28 00:17:01.255001800 -0300
+Modify: 2024-04-28 00:17:01.255001800 -0300
+Change: 2024-04-28 00:17:01.367000800 -0300
+ Birth: 2024-04-28 00:17:01.255001800 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------

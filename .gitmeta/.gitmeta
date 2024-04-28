@@ -1,0 +1,35 @@
+commit QmXweDsDHvV7pDTRAt3v2DSuZVjy3At538MrxEWLiByGdj
+Branch: HEAD
+Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: 4461694c484a2501b029d7ca37243edb89c566677c2e2801fb2108d10c5437f73aa7d7e37cda39174584086a10f32f04aacb9b584c0e72bd4bc23c46ec2156a501
+
+------------------------------
+
+Commit CID if including git's SHA1: Qma3YoXVHJenWFmPVdEjkLXC9Y8zqJrDm79WTsffVCo8Qy
+Commit CID if containing only file hashes: QmTY9j6pBMAimm9fPWfmrv33siCZjyaWh71mPX2BSNaCjY
+
+------------------------------
+
+.gitmeta version: r8
+Local folder: /media/daniella/B/git/Velho/Sites/transicao.info
+Remote Name: 
+Remote URL: 
+
+------------------------------
+
+chown -h 1000:1000 '.folderstamp1'
+chmod 0664 '.folderstamp1'
+/usr/bin/touch -hcmd "2024-04-28 00:10:57.1832735000 -0300" '.folderstamp1'
+/usr/bin/touch -hcad "2024-04-28 00:17:13.7328935000 -0300" '.folderstamp1'
+chown -h 1000:1000 '.folderstamp2'
+chmod 0664 '.folderstamp2'
+/usr/bin/touch -hcmd "2024-04-28 00:17:13.8938921000 -0300" '.folderstamp2'
+/usr/bin/touch -hcad "2024-04-28 00:18:27.1032601000 -0300" '.folderstamp2'
+chown -h 1000:1000 'Tasks.txt'
+chmod 0755 'Tasks.txt'
+/usr/bin/touch -hcmd "2024-04-28 00:17:01.2550018000 -0300" 'Tasks.txt'
+/usr/bin/touch -hcad "2024-04-28 00:17:13.8838922000 -0300" 'Tasks.txt'
+chown -h 1000:1000 'index.html'
+chmod 0664 'index.html'
+/usr/bin/touch -hcmd "2024-04-28 00:17:44.7066253000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-04-28 00:18:27.1362598000 -0300" 'index.html'
